@@ -35,7 +35,7 @@ export default function Home() {
             </p>
           </a>
           <a
-            href="/mTADS/ljhføj-visualize"
+            href="/mTADS/srb-visualize"
             className="p-4 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600"
           >
             <h3 className="text-2xl font-bold">Visualize SRB &rarr;</h3>
